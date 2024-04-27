@@ -21,7 +21,7 @@ pub async fn file_and_error_handler(uri: Uri, State(options): State<LeptosOption
         handler(req).await.into_response()
     }
 }
-
+// 4
 async fn get_static_file(
     uri: Uri,
     root: &str,

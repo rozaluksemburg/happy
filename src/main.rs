@@ -7,8 +7,8 @@ async fn main() {
     use heads::app::*;
     use heads::fileserv::file_and_error_handler;
 
-    // Setting get_configuration(None) means we'll be using cargo-leptos's env values
-    // For deployment these variables are:
+    // Setting 1 get_configuration(None) means we'll be using cargo-leptos's env values
+    // For deployment these variables are: 89
     // <https://github.com/leptos-rs/start-axum#executing-a-server-on-a-remote-machine-without-the-toolchain>
     // Alternately a file can be specified such as Some("Cargo.toml")
     // The file would need to be included with the executable when moved to deployment

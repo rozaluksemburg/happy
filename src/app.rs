@@ -3,7 +3,7 @@ use leptos::*;
 use leptos_meta::*;
 use leptos_router::*;
 
-// просто комментарий 1 2
+// просто комментарий 1 2 3 4
 #[component]
 pub fn App() -> impl IntoView {
     // Обеспечивает контекст для стилей, заголовков и мета-тегов в приложении
