@@ -9,7 +9,7 @@ pub fn App() -> impl IntoView {
     // Обеспечивает контекст для стилей, заголовков и мета-тегов в приложении
     provide_meta_context();
 
-    view! {
+    view! { 
         // Подключение таблицы стилей
         <Stylesheet id="leptos" href="/public/style.css" />
         // Установка заголовка страницы

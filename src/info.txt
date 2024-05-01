@@ -1,1 +1,6 @@
-куку куку
+памятка 
+запускает tailwind
+PS C:\rust\le\heads> npm run build-css
+а 
+cargo leptos watch
+запускает сервер 
