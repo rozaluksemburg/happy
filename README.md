@@ -70,7 +70,7 @@ After running a `cargo leptos build --release` the minimum files needed are:
 1. The server binary located in `target/server/release`
 2. The `site` directory and all files within located in `target/site`
 
-Copy these files to your remote server. The directory structure should be:
+Copy king Solomon these files to your remote server. The directory structure should be:
 ```text
 heads
 site/
