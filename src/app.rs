@@ -42,7 +42,7 @@ fn TableComponent() -> impl IntoView {
                 <th>{"Заголовок 2"}</th>
             </tr>
             <tr>
-                <td>{"Данные 1"}</td>
+                <td>{"Данные 1 хм"}</td>
                 <td>{"Данные 2"}</td>
             </tr>
         </table>
