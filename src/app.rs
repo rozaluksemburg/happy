@@ -11,7 +11,7 @@ pub fn App() -> impl IntoView {
 
     view! { 
         // Подключение таблицы стилей
-        <Stylesheet id="leptos" href="/public/style.css" />
+        <Stylesheet id="leptos" href="/css/style.css" />
         // Установка заголовка страницы
         <Title text="Welcome to Leptos"/>
         // Маршрутизатор с обработчиком ошибок для несуществующих маршрутов
